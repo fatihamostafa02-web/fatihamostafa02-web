@@ -3,8 +3,7 @@ Finance & Operations Analyst who builds finance tools with AI (Claude, ChatGPT).
 
 Projects: PPP tool, Durga AI, relocation planner.
 
-LinkedIn: linkedin.com/in/fatiha-mostafa
-<!--
+LinkedIn: [linkedin.com/in/fatiha-mostafa](https://www.linkedin.com/in/fatiha-mostafa)<!--
 **fatihamostafa02-web/fatihamostafa02-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
